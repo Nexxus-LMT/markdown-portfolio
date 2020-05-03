@@ -1,4 +1,4 @@
-#Dwayne Bellot
+# Dwayne Bellot
 
-##Aspiring Tech/Programmer
+## Aspiring Tech/Programmer
 
